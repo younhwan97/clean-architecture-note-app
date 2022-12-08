@@ -1,4 +1,4 @@
-package kr.co.younhwan.cleanarchitecturenoteapp.ui.theme
+package com.younhwan.cleanarchitecturenoteapp.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

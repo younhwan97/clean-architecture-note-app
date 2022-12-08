@@ -1,4 +1,4 @@
-package kr.co.younhwan.cleanarchitecturenoteapp
+package com.younhwan.cleanarchitecturenoteapp
 
 import org.junit.Test
 
