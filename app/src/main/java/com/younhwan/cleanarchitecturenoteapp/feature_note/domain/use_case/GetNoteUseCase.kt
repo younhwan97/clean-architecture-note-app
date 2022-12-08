@@ -10,5 +10,5 @@ class GetNoteUseCase(
     suspend operator fun invoke(id: Int): Note? {
         return repository.getNoteById(id)
     }
-    
+
 }
