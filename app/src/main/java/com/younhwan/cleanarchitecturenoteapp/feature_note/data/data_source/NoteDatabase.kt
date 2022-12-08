@@ -13,5 +13,5 @@ abstract class NoteDatabase: RoomDatabase() {
 
     abstract val noteDao: NoteDao
 
-    
+
 }
